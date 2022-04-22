@@ -5,6 +5,9 @@ contributor:
     agent_name: Graeber, J. A.
     gutenberg_agent_id: '54446'
     url: http://www.gutenberg.org/2009/agents/54446
+covers:
+- cover_type: archival
+  image_path: 67765-h/images/cover.jpg
 creator:
   author:
     agent_name: McIntyre, John T. (John Thomas)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4311
     wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67765#Fighting-King-George
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67765'
